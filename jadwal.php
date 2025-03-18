@@ -1,5 +1,5 @@
 <?php
-$jam = "20:00";
+$jam = "20:00"; // ganti jam untuk cek jadwal andi
 $tugas = true;
 $aktivitas = "";
 
